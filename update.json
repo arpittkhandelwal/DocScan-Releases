@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/arpittkhandelwal/DocScan-Releases/main/DocScan-v1.1.0.apk",
+  "releaseNotes": "🚀 Update 1.1.0 is here!\n- Added 'Export to CSV' in Expense Tracker\n- Added Currency Selector\n- Fixed scanner stability bugs"
+}
