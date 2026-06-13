@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "downloadUrl": "https://raw.githubusercontent.com/arpittkhandelwal/DocScan-Releases/main/DocScan-v1.2.0.apk",
-  "releaseNotes": "🚀 Version 1.2.0 is here!\n- Moved Expense Tracker and Business Scanner to Sidebar menu\n- Added manual 'Check for Updates' button in Sidebar\n- FIXED: OTA Updater installation bug (Scoped Storage)"
+  "versionCode": 5,
+  "versionName": "1.2.2",
+  "downloadUrl": "https://raw.githubusercontent.com/arpittkhandelwal/DocScan-Releases/main/DocScan-v1.2.2.apk",
+  "releaseNotes": "🚀 Version 1.2.2 is here!\n- FIXED: Expense Tracker parsing crash\n- FIXED: Business Card Scanner logic crash\n- UI: Adjusted sidebar margins to keep Developer info visible on all screens!"
 }
