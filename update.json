@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "downloadUrl": "https://raw.githubusercontent.com/arpittkhandelwal/DocScan-Releases/main/DocScan-v1.2.2.apk",
-  "releaseNotes": "🚀 Version 1.2.2 is here!\n- FIXED: Expense Tracker parsing crash\n- FIXED: Business Card Scanner logic crash\n- UI: Adjusted sidebar margins to keep Developer info visible on all screens!"
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "downloadUrl": "https://raw.githubusercontent.com/arpittkhandelwal/DocScan-Releases/main/DocScan-v1.2.3.apk",
+  "releaseNotes": "🚀 Version 1.2.3 is here!\n- NEW: Compress PDF! Shrink your PDFs to a custom target KB.\n- FIXED: Auto-Updater now downloads silently inside the app and triggers installation immediately.\n- CLEANUP: Removed unstable and crashing features to keep the app blazing fast."
 }
