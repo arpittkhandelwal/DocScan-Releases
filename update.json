@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.3",
-  "downloadUrl": "https://raw.githubusercontent.com/arpittkhandelwal/DocScan-Releases/main/DocScan-v1.2.3.apk",
-  "releaseNotes": "🚀 Version 1.2.3 is here!\n- NEW: Compress PDF! Shrink your PDFs to a custom target KB.\n- FIXED: Auto-Updater now downloads silently inside the app and triggers installation immediately.\n- CLEANUP: Removed unstable and crashing features to keep the app blazing fast."
+  "versionCode": 7,
+  "versionName": "1.2.4",
+  "downloadUrl": "https://raw.githubusercontent.com/arpittkhandelwal/DocScan-Releases/main/DocScan-v1.2.4.apk",
+  "releaseNotes": "🚀 Version 1.2.4 HOTFIX!\n- FIXED: Compress PDF now works flawlessly and no longer crashes when processing large PDFs.\n- UI UPGRADE: Check out the sleek new Downloading and Update Prompt dialogs! They look beautiful!"
 }
